@@ -2,7 +2,7 @@
 
 🔭 I’ve currently worked on [Leiloou](https://leiloou.pt)
 
-👨‍💻 All of my projects are available at [https://davidbgomes.github.io](https://davidbgomes.github.io)
+👨‍💻 All of my projects are available at [https://davidbgomes.com](https://davidbgomes.com)
 
 📫 How to reach me <a href="mailto:davidbgomes92@gmail.com">**davidbgomes92@gmail.com**</a>
 
