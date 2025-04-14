@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=25&duration=2000&pause=3000&color=60F7A7&center=true&multiline=true&width=1200&height=150&lines=Hi!%F0%9F%91%8B+my+name+is+David+Gomes;A+fullstack+developer+from+Portugal%2C;Working+from+anywhere+%F0%9F%8C%8E)](https://git.io/typing-svg)
 
-🔭 I’ve currently worked on [Leiloou](https://leiloou.pt)
+🔭 I’ve currently worked on [Leiloou](https://leiloou.netlify.app/)
 
 👨‍💻 Freelancing webdesign with [Lisboa Web Designs](https://lisboawebdesigns.com)
 
